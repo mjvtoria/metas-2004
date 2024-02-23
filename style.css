@@ -9,4 +9,6 @@ body{
 
 h1 {
     color: rgb(162, 202, 241);
+    font-size: 50px;
+    font-family: Kode Mono;
 }
