@@ -13,3 +13,17 @@ h1 {
     font-family: Kode Mono;
     text-align: center
 }
+
+h2 {
+    color: whitesmoke;
+    font-size: 42px;
+}
+
+h3 {
+    color: whitesmoke;
+    font-size: 35px;
+}
+h4 {
+    color: whitesmoke;
+    font-size: 35;
+}
