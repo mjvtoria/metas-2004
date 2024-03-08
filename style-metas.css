@@ -4,10 +4,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
 
 :root {
-    --cor-de-fundo: #1E1E1E;
-    --verde: #6FFF57;
+    --cor-de-fundo: #576f92;
+    --verde: #404b6b;
     --branco: #FFFFFF;
-    --botao-ativo: #3A375E;
+    --botao-ativo: #0f0950;
     --botao-inativo: #3a375e80;
     --texto-fundo: #3a375e4d;
     }
@@ -51,7 +51,7 @@
         }
         .botoes {
         display: block;
-        
+
         }
   
         .ativo{
