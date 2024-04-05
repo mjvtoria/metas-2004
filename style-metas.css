@@ -5,9 +5,9 @@
 
 :root {
     --cor-de-fundo: #1E1E1E;
-    --verde: #333047;
+    --verde: #da4ac2;
     --branco: #351958;
-    --botao-ativo: #3A375E;
+    --botao-ativo: #d31cd3;
     --botao-inativo: rgba(7, 0, 82, 0.87);
     --texto-fundo: rgba(13, 5, 95, 0.938);
 }
