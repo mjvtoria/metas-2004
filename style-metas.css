@@ -4,10 +4,10 @@
 
 :root {
     --cor-de-fundo: #576f92;
-    --verde: #404b6b;
+    --verde: violet;
     --branco: #FFFFFF;
-    --botao-ativo: #0f0950;
-    --botao-inativo: #3a375e80;
+    --botao-ativo: purple;
+    --botao-inativo:purple dark;
     --texto-fundo: #3a375e4d;
 }
 
