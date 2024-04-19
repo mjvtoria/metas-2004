@@ -44,5 +44,14 @@ function calculaTempo(tempoObjetivo) {
         
         function atuallizaCronometro(){
             //laço de repetição para interagir com todos os objetivos 
+            for (let i=0; i<contadores.length; i++){
+                contadores[i].textContent = calculaTempo(tempo[i]);
+            
+            }
         }
+        function comecaCronometro(){
+            atualizaCronometro();
+            setInterval (atualizaCronometro,1000);
+        }
+        comecaCronometro();
 }
